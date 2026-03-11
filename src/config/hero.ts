@@ -13,7 +13,7 @@ type Achievement = {
 };
 
 export const hero: Hero = {
-  title: "123",
+  title: "456",
   description: "一位立志成為軟體工程師的高中生自我介紹",
   typeAnimationTexts: [
     "擔任機器人社活動長",
