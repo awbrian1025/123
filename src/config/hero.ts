@@ -13,21 +13,21 @@ type Achievement = {
 };
 
 export const hero: Hero = {
-  title: "456",
-  description: "一位立志成為軟體工程師的高中生自我介紹",
+  title: "114514",
+  description: "18歲 是個大學生",
   typeAnimationTexts: [
-    "擔任機器人社活動長",
+    "擔任機器人",
     3000,
-    "創辦程式貓教育社群",
+    "成為程式貓",
     3000,
-    "擔任FRC程式組組長",
+    "擔任FRC",
     3000,
   ],
   achievementsList: [
-    { metric: "APCS", value: "5", postfix: "級" },
-    { metric: "競賽獲獎", value: "200", postfix: "+" },
+    { metric: "APCS", value: "5+5", postfix: "級" },
+    { metric: "競賽獲獎", value: "2000", postfix: "+" },
     { metric: "服務使用者", value: "1000", postfix: "+" },
-    { metric: "專案數量", value: "30", postfix: "+" },
-    { metric: "社群追蹤數", value: "150", postfix: "+" },
+    { metric: "專案數量", value: "3000", postfix: "+" },
+    { metric: "社群追蹤數", value: "15000", postfix: "+" },
   ],
 };
